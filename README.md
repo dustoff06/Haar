@@ -25,6 +25,7 @@ where `J(v) = [sin(||v||/2) / (||v||/2)]²` is the exponential-map chart-volume 
 ```
 .
 ├── researchnotefinal_02182026.ipynb   # Main replication notebook
+├── researchnote.pdf                   # First Draft
 ├── su2_pra_table2_results_1700.csv    # Raw results (1,700 runs, 5 configs × 340 starts)
 └── README.md
 ```
